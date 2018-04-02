@@ -19,7 +19,7 @@
             <em>Thuesday - Thursday</em>
             <br>
             1:00pm - 9:00pm <br><br>
-            <em>Friday - Saturaday</em>
+            <em>Friday - Saturday</em>
             <br>
             4:00pm - 11:00pm <br><br>
             <em>Sunday - Monday</em>
